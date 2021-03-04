@@ -16,12 +16,12 @@ Thank you to everyone who shared their codes as open-source and supported me in 
 ### Developers 😎
 
 - [imfunniee](https://github.com/imfunniee)
-- @wajex
+- [wajex](https://github.com/wajex)
 
 ### Supporters 💡
 
-- @nerawn
-- @Bas1C9
+- [nerawn](https://github.com/nerawn)
+- [Bas1C9](https://github.com/Bas1C9)
 
 
 ---
