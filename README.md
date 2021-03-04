@@ -1,4 +1,4 @@
-# statecord 🚀
+# Statecord 🚀
 **StateCord** is software for **Discord** that automatically updates your RPC.
 The developing StateCord can be installed as a plugin for projects such as BetterDiscord in the future.
 Using StateCord software is not like software that gives more than 100 options: D
