@@ -4,7 +4,8 @@ The developing StateCord can be installed as a plugin for projects such as Bette
 Using StateCord software is not like software that gives more than 100 options :laughing:
 Using the user-friendly StateCord is **soooooo simple**.
 
-
+**Do you know that it stores your address, identity, and other personal information about other RPC replacement software?**
+**StateCord will only improve your usage experience stores your information.**
 
 
 
