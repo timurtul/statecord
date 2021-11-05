@@ -14,9 +14,8 @@ Thank you to everyone who shared their codes as open-source and supported me in 
 
 ### Developers 😎
 
-- [thegance](https://github.com/thegance)
+- [Timur Tül](https://github.com/timurtul)
 - [imfunniee](https://github.com/imfunniee)
-- [wajex](https://github.com/wajex)
 
 ### Supporters 💡
 
